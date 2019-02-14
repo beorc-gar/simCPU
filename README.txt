@@ -1,7 +1,5 @@
 CIS3110 Assignment 2
-author: Bronson Graansma, 0872249
 date: Sunday, March 13th, 2016
-contact: bgraansm@mail.uoguelph.ca
 course: CIS*3110 Operating Systems I
 __________________________________________________________________
 
